@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Past Tenses Learning Games",
+  "description": "An interactive Armenian-Spanish learning application for kids to master Spanish past tenses (Pretérito Perfecto, Imperfecto, Pluscuamperfecto, and Indefinido) through 10 educational games, support for two players, and an interactive dialogue tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
