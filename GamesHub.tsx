@@ -807,7 +807,7 @@ export default function GamesHub({
               <div className="grid grid-cols-2 gap-4 pb-2">
                 <div className="bg-emerald-50 border border-emerald-100 rounded-xl p-3">
                   <div className="flex justify-between text-xs font-black text-emerald-800">
-                    <span>🦖 Դաշնակից Դինո</span>
+                    <span>Դինո</span>
                     <span>{dinoHealth} HP</span>
                   </div>
                   <div className="w-full bg-stone-200 h-2 rounded-full overflow-hidden mt-1.5">
@@ -817,7 +817,7 @@ export default function GamesHub({
 
                 <div className="bg-rose-50 border border-rose-100 rounded-xl p-3">
                   <div className="flex justify-between text-xs font-black text-rose-800">
-                    <span>👹 Ժամանակի Հրեշ</span>
+                    <span>Հրեշ</span>
                     <span>{monsterHealth} HP</span>
                   </div>
                   <div className="w-full bg-stone-200 h-2 rounded-full overflow-hidden mt-1.5">
