@@ -817,7 +817,7 @@ export default function GamesHub({
 
                 <div className="bg-rose-50 border border-rose-100 rounded-xl p-3">
                   <div className="flex justify-between text-xs font-black text-rose-800">
-                    <span>Հրեշ</span>
+                    <span>Մինո</span>
                     <span>{monsterHealth} HP</span>
                   </div>
                   <div className="w-full bg-stone-200 h-2 rounded-full overflow-hidden mt-1.5">
