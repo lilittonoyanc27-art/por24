@@ -329,7 +329,7 @@ export const BATTLE_QUESTIONS = [
 // Game 5: Mom's Recipe cooking steps
 export const RECIPE_STEPS = [
   { step: '1', task: 'Mamá (comprar) las verduras hoy.', options: ['ha comprado', 'había comprado'], correct: 'ha comprado', exp: 'Hoy (այսօր) նշանակում է Pretérito Perfecto:' },
-  { step: '2', task: 'Nosotros (lavar) las patatas.', options: ['hemos lavado', 'habíamos washing'], correct: 'hemos lavado', exp: 'Pretérito Perfecto hemos + lavado:' },
+  { step: '2', task: 'Nosotros (lavar) las patatas.', options: ['hemos lavado', 'habíamos lavado'], correct: 'hemos lavado', exp: 'Pretérito Perfecto hemos + lavado:' },
   { step: '3', task: 'Mamá (añadir) la sal hace un momento.', options: ['ha añadido', 'añadía'], correct: 'ha añadido', exp: 'Գործողություն, որը նոր է ավարտվել:' },
   { step: '4', task: 'La abuela (preparar) la mesa ya hoy.', options: ['ha preparado', 'preparó'], correct: 'ha preparado', exp: 'Hoy-ի մեջ ավարտված գործողություն:' }
 ];
